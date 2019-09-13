@@ -4,7 +4,7 @@ Email: *belaruspartizan1654.1667@gmail.com*
 
 Telephone: *+37525 946 59 72*( Viber, Telegram)*
 
-Learning new and technologies. I just to try change my life and i want to improve my life materially(honestly)
+Learning new technologies. I just to try change my life and i want to improve my life materially(honestly)
 
 Skills (this is my first course)
 
