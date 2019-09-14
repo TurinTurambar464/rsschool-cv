@@ -1,0 +1,79 @@
+body {
+    width: 900px;
+    padding: 0;   
+    margin: 0 auto;     
+    background-color:palegoldenrod;  
+}
+
+header {  
+    font-family: Arial, sans-serif;  
+    border-bottom: 1px solid gray;
+}
+
+main {
+    font-family: Georgia, serif;
+}
+
+footer {    
+    height: 60px;      
+    border-top: 1px solid gray;
+}
+
+h1 {    
+    color: grey;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h3 span {
+    font-size: 24px;
+    color: whitesmoke;
+    background-color: black;
+}
+
+img {
+    border-radius: 10px;  
+}
+
+.photo {
+    display: inline-block;      
+}
+
+.about-me {
+    float: right;
+    width: 68%; 
+    padding: 0 10px;   
+    font-size: 18px;
+    border: 1px solid grey; 
+    border-radius: 10px;           
+}
+
+blockquote {
+    float: right;
+    width: 70.5%;       
+    margin: 10px 0;
+    padding: 7px 0;
+    font-size: 15px;
+    background-color: rgb(163, 172, 180);
+    border-top: 1px solid  grey;
+    border-bottom: 1px solid  grey;    
+}
+
+.skills  {
+    font-size: 20px;  
+    font-family: Times, 'Times New Roman', serif;   
+}
+
+.footer-container {
+    display: flex;
+    justify-content: left;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-style: italic;    
+}
+
+.footer-container div {        
+    margin: 15px;      
+}
+
